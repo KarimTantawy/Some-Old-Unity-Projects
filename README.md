@@ -7,7 +7,18 @@ of C# and the .NET framework.
 ## Some of the Projects:
 [![Video Thumbnail](https://img.youtube.com/vi/bZ5nYWbMCwE/0.jpg)](https://www.youtube.com/watch?v=bZ5nYWbMCwE&feature=youtu.be)
 
-Credits of Projects in Video:
+Credits of assets used in projects in video:
+1. Music(in video) - Evan King - 20XX
+1. 3D Puzzle Project - 2015
+    1. Low Poly Vegetation Pack Free - LMHPoly
+        1. Assets used:
+            1. rock - variation 1
+            1. bush - variation 1
+    1. Styalized Vehicles Pack Free - ELREAD
+        1. Assets used:
+            1. car2 - model
+1. 3D FPS Game Jam Game - 2017
+    1. Perfect Pixel Camera - GGEZ
 
 #### Screenshots:
 ![Screenshot1](https://github.com/KarimTantawy/Some-Old-Unity-Projects/blob/master/Some%20Old%20Unity%20Projects/Ammo%20Counter/screen.png)
