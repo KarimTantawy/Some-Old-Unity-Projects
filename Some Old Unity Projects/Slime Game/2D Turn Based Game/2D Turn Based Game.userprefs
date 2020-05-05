@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Characters\Enemies\Enemy1-moving\EnemyMovement.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Characters\Enemies\SlimePath.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Characters\Enemies\Enemy1-moving\EnemyMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Characters\Enemies\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Characters\MovableCharacter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Explosions\CharacterExplode.cs" Line="1" Column="1" />
+      <File FileName="Assets\My Tools\Event Manager\EventManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

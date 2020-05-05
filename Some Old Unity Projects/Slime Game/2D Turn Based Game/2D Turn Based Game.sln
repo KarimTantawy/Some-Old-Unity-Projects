@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D Turn Based Game", "Assembly-CSharp.csproj", "{28088A51-7B10-EDE8-C3E6-932D23067BEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D Turn Based Game", "Assembly-CSharp-Editor.csproj", "{2B576DCC-1B9A-F3B9-B68C-9DC491B8ED29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28088A51-7B10-EDE8-C3E6-932D23067BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28088A51-7B10-EDE8-C3E6-932D23067BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28088A51-7B10-EDE8-C3E6-932D23067BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28088A51-7B10-EDE8-C3E6-932D23067BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B576DCC-1B9A-F3B9-B68C-9DC491B8ED29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B576DCC-1B9A-F3B9-B68C-9DC491B8ED29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B576DCC-1B9A-F3B9-B68C-9DC491B8ED29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B576DCC-1B9A-F3B9-B68C-9DC491B8ED29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

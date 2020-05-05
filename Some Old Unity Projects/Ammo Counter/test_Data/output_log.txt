@@ -1,0 +1,31 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     4055 MB
+    Driver:   24.21.13.9907
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\kstre\Desktop\cardboardbox\Projects\My Games\New Games\Practice Game Systems\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\kstre\Desktop\cardboardbox\Projects\My Games\New Games\Practice Game Systems\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\kstre\Desktop\cardboardbox\Projects\My Games\New Games\Practice Game Systems\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\kstre\Desktop\cardboardbox\Projects\My Games\New Games\Practice Game Systems\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\kstre\Desktop\cardboardbox\Projects\My Games\New Games\Practice Game Systems\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\kstre\Desktop\cardboardbox\Projects\My Games\New Games\Practice Game Systems\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\kstre\Desktop\cardboardbox\Projects\My Games\New Games\Practice Game Systems\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\kstre\Desktop\cardboardbox\Projects\My Games\New Games\Practice Game Systems\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\kstre\Desktop\cardboardbox\Projects\My Games\New Games\Practice Game Systems\test_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\kstre\Desktop\cardboardbox\Projects\My Games\New Games\Practice Game Systems\test_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\kstre\Desktop\cardboardbox\Projects\My Games\New Games\Practice Game Systems\test_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\kstre\Desktop\cardboardbox\Projects\My Games\New Games\Practice Game Systems\test_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.553 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 26.412500 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 4510 -> priority: 1 
+  Thread -> id: 61a4 -> priority: 1 
+  Thread -> id: 4284 -> priority: 1 
+  Thread -> id: 8dd0 -> priority: 1 
